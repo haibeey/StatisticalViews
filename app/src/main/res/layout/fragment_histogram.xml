@@ -1,0 +1,11 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.haibeey.statisticviewsproject.Histogram">
+
+   <com.splash.android.statisticviews.histogram.Histogram
+       android:layout_width="match_parent"
+       android:id="@+id/histogram_id"
+       android:layout_height="250dp" />
+</FrameLayout>
